@@ -1,0 +1,44 @@
+2020-03-06 09:23:34.931709 - Approximate your card to the reader...
+2020-03-06 09:23:35.960174 - 
+2020-03-06 09:23:37.980435 - UID tag : 49 55 AB 99
+2020-03-06 09:23:38.983408 - Message : Authorized access
+2020-03-06 09:23:40.001832 - UID tag : 49 55 AB 99
+2020-03-06 09:23:41.005560 - Message : Authorized access
+2020-03-06 09:23:42.008012 - UID tag : 49 55 AB 99
+2020-03-06 09:23:43.032060 - Message : Authorized access
+2020-03-06 09:24:31.116805 - Approximate your card to the reader...
+2020-03-06 09:24:32.134797 - 
+2020-03-06 09:24:36.171624 - UID tag : FB D9 4B 1E
+2020-03-06 09:24:37.190569 - Message : Authorized access
+2020-03-06 09:24:39.226313 - UID tag : 49 55 AB 99
+2020-03-06 09:24:40.242636 - Message : Authorized access
+2020-03-06 09:24:41.244404 - UID tag : 49 55 AB 99
+2020-03-06 09:24:42.247289 - Message : Authorized access
+2020-03-06 09:24:46.258509 - UID tag : 99 87 90 A2
+2020-03-06 09:24:47.259962 - Message :  Access denied
+2020-03-06 09:24:48.263356 - UID tag : 99 87 90 A2
+2020-03-06 09:24:49.270026 - Message :  Access denied
+2020-03-06 09:24:50.272291 - UID tag : 62 36 4E 1E
+2020-03-06 09:24:51.290176 - Message : Authorized access
+2020-03-06 09:24:56.321514 - UID tag : 62 36 4E 1E
+2020-03-06 09:24:57.323044 - Message : Authorized access
+2020-03-06 09:25:00.376422 - UID tag : 62 36 4E 1E
+2020-03-06 09:25:01.394501 - Message : Authorized access
+2020-03-06 09:25:32.542232 - UID tag : 62 36 4E 1E
+2020-03-06 09:25:33.575476 - Message : Authorized access
+2020-03-06 09:25:34.577339 - UID tag : 62 36 4E 1E
+2020-03-06 09:25:35.595117 - Message : Authorized access
+2020-03-12 10:47:06.739111 - Approximate your card to the reader...
+2020-03-12 10:47:07.749995 - 
+2020-03-12 10:47:30.771283 - UID tag : 49 55 AB 99
+2020-03-12 10:47:31.784100 - Message : Authorized access
+2020-03-12 10:47:32.791553 - UID tag : 49 55 AB 99
+2020-03-12 10:47:33.803770 - Message : Authorized access
+2020-03-12 10:47:38.818507 - UID tag : 99 87 90 A2
+2020-03-12 10:47:39.836265 - Message :  Access denied
+2020-03-12 10:47:44.848647 - UID tag : 62 36 4E 1E
+2020-03-12 10:47:45.856835 - Message : Authorized access
+2020-03-12 10:47:48.867368 - UID tag : D0 64 1B 7B
+2020-03-12 10:47:49.881916 - Message :  Access denied
+2020-03-12 10:47:50.897790 - UID tag : D0 64 1B 7B
+2020-03-12 10:47:51.903796 - Message :  Access denied
